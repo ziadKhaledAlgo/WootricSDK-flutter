@@ -1,3 +1,7 @@
+## [0.0.10] - 2025-04-03
+
+* Moves android namespace declaration from `AndroidManifest.xml` to `build.gradle`
+
 ## [0.0.9] - 2024-06-04
 
 * Fix `Int` to `Long` cast in Android `setEndUserCreatedAt`
